@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello World 👋
+
+I am a web and mobile developper from France
+
+- 🔭 Working on multiple frontend and backend project using Vue.js and PHP
+- 🌱 Learning design patterns and algorithm 
+- 👯 I will love to collaborate on a browser extension to help poeple on privacy and local economy
+- 💬 Ask me about complementary currencies, music (and my code of course !) 
+
+<br>## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/gaspard-lonchampt)
+
