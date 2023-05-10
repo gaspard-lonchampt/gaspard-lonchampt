@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a web and mobile developper from France
 
-- 🔭 Working on multiple frontend and backend project using Vue.js and PHP
+- 🔭 Working on multiple frontend and backend project using Vue.js, React & React Native, Tiwg, PHP, Perl and PostgreSQL
 - 🌱 Learning design patterns and algorithm 
 - 👯 I will love to collaborate on a browser extension to help people on privacy and local economy
 - 💬 Ask me about complementary currencies, music (and my code of course !) 
