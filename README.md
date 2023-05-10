@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Hello World 👋
 
-I am a web and mobile developper from France currently working as an information systems developer @ [FreePro](https://pro.free.fr/)
+I am a trained as a web and mobile developper from France currently working as an information systems developer @ [FreePro](https://pro.free.fr/)
 
-- 🔭 Working on multiple frontend and backend project using Vue.js, React & React Native, Tiwg, PHP, Perl and PostgreSQL
+- 🔭 Working on multiple frontend and backend project using Vue.js, React & React Native, Tiwg, PHP, Perl, PostgreSQL & PL/pgSQL in a Linux development environment . 
 - 🌱 Learning design patterns, algorithm and how to efficiently debug and do unit testing in PL/pgSQL (yes, it's a thing) 
 - 👯 I will love to collaborate on a browser extension to help people on privacy and local economy
 - 💬 Ask me about complementary currencies, music (and my code of course !) 
