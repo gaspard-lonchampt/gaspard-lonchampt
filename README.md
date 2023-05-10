@@ -23,7 +23,7 @@ I am a web and mobile developper from France currently working as an information
 - 🌱 Learning design patterns, algorithm and how to efficiently debug and do unit testing in PL/pgSQL (yes, it's a thing) 
 - 👯 I will love to collaborate on a browser extension to help people on privacy and local economy
 - 💬 Ask me about complementary currencies, music (and my code of course !) 
-- ⚡ If you want to have a deeper understanding on my work, in French, [here is a presentation file of relevant projects for my final exam](https://github.com/gaspard-lonchampt/CS2-DPP) to validate my web developer diploma at [La_Plateforme](https://laplateforme.io/)
+- ⚡ If you want to have a deeper understanding on my work, in French, [here is a presentation file of relevant projects for my final exam](https://github.com/gaspard-lonchampt/CS2-DPP) to validate my web developer diploma @ [La_Plateforme](https://laplateforme.io/)
 
 <br>## Connect with me
 
