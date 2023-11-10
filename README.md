@@ -1,8 +1,3 @@
-
-
-<!--
-**gaspard-lonchampt/gaspard-lonchampt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hello World 👋
 
 I am a trained as a web and mobile developper from France currently working on @ [Mobilic](https://mobilic.beta.gouv.fr/)
