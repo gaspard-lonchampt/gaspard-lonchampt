@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I am a trained as a web and mobile developper from France currently working on @ [Mobilic](https://mobilic.beta.gouv.fr/)
+I'm a web developper from France currently working on @ [Mobilic](https://mobilic.beta.gouv.fr/)
 
 - 🔭 Working on multiple frontend and backend project using React, Python with flask, Graphql and PostgreSQL on Unix system. 
 - 🌱 Learning design patterns, algorithm and how to efficiently debug and do unit testing in PL/pgSQL (yes, it's a thing) 
