@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<a href="https://app.daily.dev/sarp09"><img src="https://api.daily.dev/devcards/v2/526ptztBmVsCa88uJ6snH.png?type=wide&r=f1o" width="652" alt="Gaspard Lonchampt's Dev Card"/></a>
+<a href="https://app.daily.dev/sarp09"><img src="./devcard.png" width="652" alt="Gaspard Lonchampt's Dev Card"/></a>
 
 I'm a web developper from France currently working @ [Mobilic](https://mobilic.beta.gouv.fr/)
 
