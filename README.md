@@ -1,5 +1,7 @@
 ## Hello World 👋
 
+<a href="https://app.daily.dev/sarp09"><img src="https://api.daily.dev/devcards/v2/526ptztBmVsCa88uJ6snH.png?type=wide&r=f1o" width="652" alt="Gaspard Lonchampt's Dev Card"/></a>
+
 I'm a web developper from France currently working @ [Mobilic](https://mobilic.beta.gouv.fr/)
 
 - 🔭 Working on multiple frontend and backend project using React, Python with flask, Graphql and PostgreSQL on Unix system. 
@@ -12,5 +14,5 @@ I'm a web developper from France currently working @ [Mobilic](https://mobilic.b
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/gaspard-lonchampt)
 
-<a href="https://app.daily.dev/sarp09"><img src="https://api.daily.dev/devcards/v2/526ptztBmVsCa88uJ6snH.png?type=wide&r=f1o" width="652" alt="Gaspard Lonchampt's Dev Card"/></a>
+
 
